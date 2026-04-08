@@ -135,3 +135,6 @@ This project demonstrates:
 * Game loop and elimination logic
 * Basic simulation design
 
+## Author
+
+Rachit
