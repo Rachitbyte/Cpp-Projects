@@ -1,8 +1,4 @@
 #include <bits/stdc++.h>
-#include <cstdlib>
-#include <conio.h>
-#include <string>
-#include <iomanip>
 using namespace std;
 
 struct train 
